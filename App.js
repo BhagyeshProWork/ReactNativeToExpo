@@ -28,7 +28,7 @@ import {
 const App = () => {
   return (
     <SafeAreaView>
-      <Text>App TEst</Text>
+      <Text>App Test from BhagyeshPro</Text>
     </SafeAreaView>
   );
 };
