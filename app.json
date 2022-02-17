@@ -1,0 +1,8 @@
+{
+  "name": "AwesomeProject",
+  "displayName": "AwesomeProject",
+  "expo": {
+    "sdkVersion": "44.0.0",
+    "name": "AwesomeProject"
+  }
+}
